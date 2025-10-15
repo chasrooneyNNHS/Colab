@@ -1,4 +1,4 @@
-state,district,last_name,first_name,longitude,latitude,party,num_grants,total_grants_millions,Pres,PresVote
+state,district,last_name,first_name,longitude,latitude,party,num_grants,total_grants_millions,DistPresVote,StatePresVote
 CA,2,Huffman,Jared,-123.4213176,40.11849817352488,Democrat,4,129,D,D
 CA,4,Thompson,Mike,-122.3253531,38.718824709112056,Democrat,2,17,D,D
 CA,5,McClintock,Tom,-119.8497407,37.70935986246992,Republican,2,79,R,D
@@ -99,4 +99,5 @@ WA,2,Larsen,Rick,-121.8561835,48.61771206693778,Democrat,3,48,D,D
 WA,3,Gluesenkamp Perez,Marie,-122.5521712,46.31919965204937,Democrat,1,46,R,D
 WA,5,Baumgartner,Michael,-118.0125803,47.43473209448041,Republican,4,8,R,D
 WA,7,Jayapal,Pramila,-122.3716252,47.57159123006644,Democrat,1,3,D,D
+
 WA,10,Strickland,Marilyn,-122.7545424,47.04276779601204,Democrat,1,995,D,D
